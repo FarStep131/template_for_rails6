@@ -1,0 +1,1 @@
+# template_for_rails6
